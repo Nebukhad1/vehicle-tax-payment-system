@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+/* Print-friendly styles untuk halaman sukses */
+@media print {
+  /* Sembunyikan elemen yang tidak perlu dicetak */
+  .no-print {
+    display: none !important;
+  }
+
+  /* Reset background */
+  body {
+    background: white !important;
+  }
+
+  /* Hilangkan shadow */
+  * {
+    box-shadow: none !important;
+  }
+
+  /* Hilangkan warna background berlebih */
+  .print-clean {
+    background: white !important;
+    border: 1px solid #e5e7eb !important;
+  }
+
+  /* Pastikan border tetap terlihat */
+  .print-border {
+    border: 1px solid #e5e7eb !important;
+  }
+
+  /* Margin halaman */
+  @page {
+    margin: 1cm;
+  }
+
+  /* Font lebih kecil saat print */
+  body {
+    font-size: 12px;
+  }
+
+  /* Judul lebih kecil */
+  h2 {
+    font-size: 18px !important;
+  }
+}
