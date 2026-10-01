@@ -1,7 +1,7 @@
 [build]
   base = "pajak-app"
   command = "npm run build"
-  publish = "pajak-app/dist"
+  publish = "dist"              ← BENAR
 
 [[redirects]]
   from = "/*"
