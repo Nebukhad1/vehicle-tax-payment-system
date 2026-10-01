@@ -1,6 +1,7 @@
 [build]
+  base = "pajak-app"
   command = "npm run build"
-  publish = "dist"
+  publish = "pajak-app/dist"
 
 [[redirects]]
   from = "/*"
