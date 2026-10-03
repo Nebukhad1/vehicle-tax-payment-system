@@ -180,7 +180,7 @@ Proyek ini dilengkapi **dokumentasi lengkap** sebagai portofolio
 |---|---|---|---|
 | 1 | **Project Charter** | ✅ | [🇯🇵 JP](./docs/charter/01-project-charter-jp.md) · [🇬🇧 EN](./docs/charter/01-project-charter-en.md) · [🇮🇩 ID](./docs/charter/01-project-charter-id.md) |
 | 2 | **BPMN Diagram** | ✅ | [As-Is](./docs/bpmn/02-bpmn-as-is.png) · [To-Be](./docs/bpmn/02-bpmn-to-be.png) |
-| 3 | **Arsitektur Sistem** | 🔄 | 5 layer |
+| 3 | **Arsitektur Sistem** | ✅ | [5 Layer](./docs/architecture/03-architecture.png) |
 | 4 | **API Contract** | 🔄 | Polri, Bapenda, Dukcapil |
 | 5 | **SRS** | 🔄 | Software Requirements Spec |
 | 6 | **Artikel** | 🔄 | LinkedIn / Medium |
