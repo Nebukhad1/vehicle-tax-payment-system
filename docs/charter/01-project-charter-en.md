@@ -34,9 +34,9 @@ Every year, we faced the following problems:
 
 | # | Problem | What Actually Happened |
 |---|---|---|
-| 1 | Cannot pay outside registration city | My sister is in Java, but payment must be in Pekanbaru |
+| 1 | Cannot pay outside registration city | My brother is in Java, but payment must be in Pekanbaru |
 | 2 | Only the owner can process | I couldn't pay on her behalf — she must handle it herself |
-| 3 | Must call my sister back from Java | Either she skips class to come home, or I prepare power-of-attorney documents |
+| 3 | Must call my brother back from Java | Either she skips class to come home, or I prepare power-of-attorney documents |
 | 4 | Document preparation takes time | Power of attorney, KTP copy, original STNK, etc. |
 | 5 | SAMSAT office only opens on weekdays | Conflicts with work and study |
 | 6 | No visibility on progress | After payment, we can't verify if SAMSAT and Polri have updated the record |
@@ -46,7 +46,7 @@ Every year, we faced the following problems:
 - 3 days of preparation (collecting documents)
 - 2 visits to SAMSAT (the first was rejected due to incomplete documents)
 - 8 hours of total waiting time
-- Phone calls and document exchanges with my sister (Java ⇄ Sumatra)
+- Phone calls and document exchanges with my brother (Java ⇄ Sumatra)
 - Total time to complete payment: **2 weeks**
 
 **This is still a reality in Indonesia in 2026.**
@@ -75,7 +75,7 @@ Root Problem: Vehicle tax payment is bound to "place" and "person"
 
 | Stakeholder | Current State | After Improvement |
 |---|---|---|
-| My family | Must call sister back | Can pay from anywhere |
+| My family | Must call brother back | Can pay from anywhere |
 | Other families | Same problem | Same solution available |
 | SAMSAT | Crowded counters | Reduced workload |
 | Polri | Delayed data updates | Real-time sync |
@@ -128,7 +128,7 @@ be avoided.
 
 ```
 Influence
-  High │  Sister    SAMSAT    Polri
+  High │  Brother    SAMSAT    Polri
        │  Family    Bapenda
        │
   Med  │            Dukcapil  PaymentGW
@@ -157,7 +157,7 @@ Influence
 
 | # | Criteria | Meaning |
 |---|---|---|
-| 1 | My sister can actually use it | Proof of practicality |
+| 1 | My brother can actually use it | Proof of practicality |
 | 2 | Family burden is reduced | Solving the original experience |
 | 3 | Becomes reference for others | Social value |
 
@@ -271,7 +271,7 @@ Documentation                      ████
 
 | Day | Event | Duration |
 |---|---|---|
-| Day 1 | Contacted sister, checked required documents | 1 hour |
+| Day 1 | Contacted , checked required documents | 1 hour |
 | Day 2-3 | Collected documents (KTP, STNK, power of attorney) | 2 days |
 | Day 4 | Visited SAMSAT (1st) — rejected due to incomplete documents | 3 hours |
 | Day 5 | Re-prepared documents | 2 hours |
