@@ -267,7 +267,7 @@ Documentation                      ████
 
 ### A. Personal Experience Detail
 
-**In 2025, to pay my sister's vehicle tax, I experienced:**
+**In 2025, to pay my brother's vehicle tax, I experienced:**
 
 | Day | Event | Duration |
 |---|---|---|
