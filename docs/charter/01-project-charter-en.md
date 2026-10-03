@@ -25,9 +25,9 @@
 
 **This project was born from my own lived experience.**
 
-I have a younger brother studying at a university in Java. She
+I have a younger brother studying at a university in Java. He
 lives in Java, but our family lives in Pekanbaru, Sumatra.
-The vehicle tax for the car she owns **can only be paid at
+The vehicle tax for the car he owns **can only be paid at
 the SAMSAT office in Pekanbaru** — the city of registration.
 
 Every year, we faced the following problems:
@@ -35,8 +35,8 @@ Every year, we faced the following problems:
 | # | Problem | What Actually Happened |
 |---|---|---|
 | 1 | Cannot pay outside registration city | My brother is in Java, but payment must be in Pekanbaru |
-| 2 | Only the owner can process | I couldn't pay on her behalf — she must handle it herself |
-| 3 | Must call my brother back from Java | Either she skips class to come home, or I prepare power-of-attorney documents |
+| 2 | Only the owner can process | I couldn't pay on his behalf — he must handle it himself |
+| 3 | Must call my brother back from Java | Either he skips class to come home, or I prepare power-of-attorney documents |
 | 4 | Document preparation takes time | Power of attorney, KTP copy, original STNK, etc. |
 | 5 | SAMSAT office only opens on weekdays | Conflicts with work and study |
 | 6 | No visibility on progress | After payment, we can't verify if SAMSAT and Polri have updated the record |
