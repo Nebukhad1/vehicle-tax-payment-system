@@ -10,11 +10,37 @@
 > pengalaman pribadi menghadapi birokrasi pajak kendaraan antar-pulau
 > di Indonesia.
 
+## 🔗 Live Demo
+
+🌐 **[vehicle-tax-payment-system.netlify.app](https://vehicle-tax-payment-system.netlify.app)**
+
+Prototipe ini dapat diakses **langsung tanpa instalasi**. Klik link di atas dan coba sendiri!
+
+### 🧪 Data Uji Coba
+
+Gunakan data berikut untuk mencoba semua fitur:
+
+| Plat | STNK | Rangka | Status |
+|---|---|---|---|
+| `BM 1234 XYZ` | `12345` | `67890` | Belum Lunas |
+| `BM 5678 ABC` | `54321` | `09876` | Belum Lunas (dengan denda) |
+| `BM 9012 DEF` | `11111` | `22222` | Sudah Lunas |
+
+### ✨ Fitur yang Bisa Dicoba
+
+1. **Cek Tagihan** — masukkan plat + STNK + rangka
+2. **Lihat Rincian** — PKB, SWDKLLJ, denda, total
+3. **Pilih Metode Pembayaran** — QRIS, Virtual Account, E-Wallet
+4. **Scan QR Code** — QR code asli bisa di-scan dengan DANA/GoPay/OVO
+5. **Bukti Pembayaran** — e-TBPKP siap cetak
+6. **Riwayat Transaksi** — data tersimpan di browser
+
+
 ---
 
 ## 📖 Latar Belakang (Personal Story)
 
-Saya memiliki seorang adik perempuan yang sedang kuliah di **Pulau Jawa**,
+Saya memiliki seorang adik laki - laki yang sedang kuliah di **Pulau Jawa**,
 sementara keluarga kami tinggal di **Pekanbaru, Sumatra**.
 
 Setiap tahun, kami menghadapi masalah yang sama: **pajak kendaraan
