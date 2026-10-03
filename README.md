@@ -182,7 +182,7 @@ Proyek ini dilengkapi **dokumentasi lengkap** sebagai portofolio
 | 2 | **BPMN Diagram** | ✅ | [As-Is](./docs/bpmn/02-bpmn-as-is.png) · [To-Be](./docs/bpmn/02-bpmn-to-be.png) |
 | 3 | **Arsitektur Sistem** | ✅ | [5 Layer](./docs/architecture/03-architecture.png) |
 | 4 | **API Contract** | ✅ | [Dokumentasi](./docs/api-contract/README.md) |
-| 5 | **SRS** | 🔄 | Software Requirements Spec |
+| 5 | **SRS** | ✅ | [Dokumentasi](./docs/srs/README.md) |
 | 6 | **Artikel** | 🔄 | LinkedIn / Medium |
 
 ---
